@@ -1,13 +1,13 @@
 ---
-title: "Mídias e História Digital"
+title: "Mídias<br>e<br>História Digital"
 description: "Apresentação para o Grupo de Estudos de História e Mídias da PUCRS"
-author: "Eric Brasil (IHM/UNILAB)"
+author: "<br>Eric Brasil (IHLM/UNILAB)<br>"
 date: "`r Sys.Date()`"
 encoding: "UTF-8"
 output:
   xaringan::moon_reader:
     chakra: libs/remark-latest.min.js
-    css: ["css/yellow.css" , "css/mmp-fonts.css"]
+    css: ["css/yellow.css", "css/yellow-fonts.css"]
     lib_dir: libs
     nature:
       ratio: '16:9'
@@ -71,7 +71,7 @@ class: bg_yellow, center, middle
 <br>
 
 --
-### O que muda com as pesquisas na era digirtal?
+### O que muda com as pesquisas na era digital?
 
 ---
 class: bg_yellow, center, middle
@@ -210,17 +210,16 @@ class: bg_yellow, middle, center
 knitr::include_graphics("img/artigo.png")
 ```
 
-### História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica.
+### Revista Estudos Históricos, v. 33, n. 69, p. 196–219, jan. 2020. DOI: 10.1590/S2178-14942020000100011
 
-Revista Estudos Históricos, v. 33, n. 69, p. 196–219, jan. 2020. 
-
-[Clique para acessar]( https://doi.org/10.1590/S2178-14942020000100011 ) 
+[Clique para acessar](https://doi.org/10.1590/S2178-14942020000100011) 
 
 ---
 class: bg_yellow, middle, center
 
 ## Eric Brasil
 <br>
+
 ### Email: [profericbrasil@unilab.edu.br](mailto:profericbrasil@unilab.edu.br)
 
 ### GitHub: [ericbrasiln](https://github.com/ericbrasiln/)
@@ -230,6 +229,25 @@ class: bg_yellow, middle, center
 ### [Orcid](https://orcid.org/0000-0001-5067-8475) - [Lattes](http://lattes.cnpq.br/6853705640900524)
 
 ### [Site pessoal](https://ericbrasiln.github.io)
+
+---
+class: bg_yellow, middle, center
+
+```{r, out.width="25%"}
+knitr::include_graphics("img/logo_hist.png")
+```
+
+## Curso de Licenciatura em História
+
+### Instituto de Humanidades e Letras do campus dos Malês, Unilab
+
+### [Site do curso](historia.males.unilab.edu.br/) 
+
+### email: [historia.ba@unilab.edu.br ](mailto:historia.ba@unilab.edu.br)
+
+```{r, out.width="22%"}
+knitr::include_graphics("img/logo_unilab.png")
+```
 
 ---
 class: bg_yellow, middle, center

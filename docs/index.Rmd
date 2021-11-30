@@ -1,5 +1,6 @@
 ---
-title: "Mídia e História Digital"
+title: "Mídias e História Digital"
+description: "Apresentação para o Grupo de Estudos de História e Mídias da PUCRS"
 author: "Eric Brasil (IHM/UNILAB)"
 date: "`r Sys.Date()`"
 encoding: "UTF-8"
